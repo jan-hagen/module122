@@ -1,4 +1,4 @@
-m = 10000000
+m = 1000
 
 x = MsgBox("Herzlich Willkommen zu Casino.vbs!" & vbCrLf & "Ihr aktuelles Geld: 10 000 $",1+48,"Virtual Casino")
 If x=1 then
